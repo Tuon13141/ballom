@@ -1,0 +1,41 @@
+
+qiqiu.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 575, 156
+  size: 10, 97
+  orig: 10, 97
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 334, 37
+  size: 163, 216
+  orig: 163, 216
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 495, 2
+  size: 111, 251
+  orig: 111, 251
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 37
+  size: 164, 216
+  orig: 165, 216
+  offset: 1, 0
+  index: -1
+5
+  rotate: false
+  xy: 168, 37
+  size: 164, 216
+  orig: 165, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092346402182",
+    "project_id": "alphabet-monster-merge-master",
+    "storage_bucket": "alphabet-monster-merge-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092346402182:android:89aef613ee14980ae7c807",
+        "android_client_info": {
+          "package_name": "com.fc.rb.aphabet.monster.merge.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092346402182-eln157nvl4ovummn8pp0b78l0akoch7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1UXmGb6afnuJW4dfOjb6vuJgi-rudKrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092346402182-eln157nvl4ovummn8pp0b78l0akoch7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

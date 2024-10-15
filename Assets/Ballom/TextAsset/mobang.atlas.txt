@@ -1,0 +1,76 @@
+
+mobang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 692, 352
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 692, 177
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 928, 276
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 45
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 867, 354
+  size: 94, 122
+  orig: 94, 122
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 238, 45
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 474, 2
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 710, 2
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 220
+  size: 688, 366
+  orig: 693, 370
+  offset: 3, 2
+  index: -1
+lz
+  rotate: false
+  xy: 867, 450
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1

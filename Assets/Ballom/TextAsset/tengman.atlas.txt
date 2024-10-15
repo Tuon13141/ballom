@@ -1,0 +1,55 @@
+
+tengman.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 283, 147
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 283, 2
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 177, 189
+  size: 237, 80
+  orig: 238, 81
+  offset: 0, 1
+  index: -1
+4
+  rotate: true
+  xy: 259, 292
+  size: 134, 113
+  orig: 134, 113
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 170, 44
+  size: 143, 111
+  orig: 143, 111
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 220
+  size: 173, 206
+  orig: 173, 206
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 25
+  size: 166, 193
+  orig: 166, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+{
+    "SDKKey": "M4GLwqezVT2WDo75OWFGOV873pVg6-3S3Kpz8Rxe_-9CnHI9oXPB2TI5LpnRnqvr8hpH8kw7i4KTMcc891KCad",
+    "BannerAdUnitId": "f66eaa48f956622e",
+    "InterstitialAdUnitId": "44f6af3aa84a48ae",
+    "RewardedAdUnitId": "8c77dbc1e71397a8",
+    "AndroidAdmobAppID": "ca-app-pub-3046520253844875~5089763938",
+    "IOSAdmobAppID": "ca-app-pub-3046520253844875~5089763938",
+    "UseBanner": true,
+    "BannerPosition": 1
+}

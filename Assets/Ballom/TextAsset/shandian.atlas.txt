@@ -1,0 +1,76 @@
+
+shandian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 352, 268
+  size: 143, 169
+  orig: 143, 169
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 352, 134
+  size: 145, 132
+  orig: 146, 133
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 203
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 177, 203
+  size: 173, 234
+  orig: 173, 234
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 373, 11
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 88
+  size: 134, 113
+  orig: 134, 113
+  offset: 0, 0
+  index: -1
+shandian/shandian_15_01
+  rotate: false
+  xy: 227, 13
+  size: 126, 53
+  orig: 256, 64
+  offset: 41, 6
+  index: -1
+shandian/shandian_15_02
+  rotate: false
+  xy: 2, 2
+  size: 223, 64
+  orig: 256, 64
+  offset: 15, 0
+  index: -1
+shandian/shandian_15_03
+  rotate: false
+  xy: 138, 68
+  size: 233, 64
+  orig: 256, 64
+  offset: 9, 0
+  index: -1
+shandian/shandian_15_04
+  rotate: false
+  xy: 138, 138
+  size: 148, 63
+  orig: 256, 64
+  offset: 76, 0
+  index: -1

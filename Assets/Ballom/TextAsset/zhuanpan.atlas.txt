@@ -1,0 +1,62 @@
+
+zhuanpan.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 151, 2
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 151, 43
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 25
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 113
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 210
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 99, 89
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 95, 33
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 134, 183
+  size: 159, 81
+  orig: 159, 81
+  offset: 0, 0
+  index: -1

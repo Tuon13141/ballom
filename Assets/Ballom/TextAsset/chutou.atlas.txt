@@ -1,0 +1,13 @@
+
+chutou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutou
+  rotate: false
+  xy: 2, 2
+  size: 479, 424
+  orig: 479, 424
+  offset: 0, 0
+  index: -1

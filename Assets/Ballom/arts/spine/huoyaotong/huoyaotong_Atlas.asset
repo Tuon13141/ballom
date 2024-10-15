@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: d82f77d9c0dcc64722bea50489d109a8, type: 3}
+  m_Name: huoyaotong_Atlas
+  m_EditorClassIdentifier:
+  atlasFile: {fileID: 4900000, guid: b1d8f8afe0b30f64a84e1e2b557a9439, type: 3}
+  materials:
+  - {fileID: 2100000, guid: a4cfd87e8ae29e64aa749b2f745e311d, type: 2}

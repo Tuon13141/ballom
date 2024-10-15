@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GamePlay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e6d48e10dab389e40b8e8e19d4655525, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 372293258acf6df49b7610ed8410a213, type: 3}
+  - {fileID: 21300000, guid: 5fe360777f653ed499cb25599ad4b1a4, type: 3}
+  - {fileID: 21300000, guid: 598508583bc83044a85d648b150ba1d7, type: 3}
+  - {fileID: 21300000, guid: 75e1cb095eb1ffe44a6a6c45f777d7f6, type: 3}
+  - {fileID: 21300000, guid: 679bbd796aadbad478f46c500d65bc31, type: 3}
+  - {fileID: 21300000, guid: 25f693c9c7f90874895e02e04ffa6195, type: 3}
+  - {fileID: 21300000, guid: 2a33465ca1702174885b922197828508, type: 3}
+  - {fileID: 21300000, guid: 96caedfc90dc1184f8fa6526dc51175d, type: 3}
+  - {fileID: 21300000, guid: 6b15f33d7f3fc054a98c810c4e6421fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Rate_button
+  - bg_pop_up
+  - loading_icon
+  - text_ads
+  - WhiteTex
+  - we care about your privacy and data security. we keep the game
+  - no, thanks!
+  - btn_yes
+  - preview_ads
+  m_RenderDataMap: {}
+  m_Tag: GamePlay
+  m_IsVariant: 0

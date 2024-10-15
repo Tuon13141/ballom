@@ -1,0 +1,27 @@
+
+baoxiang4_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan
+  rotate: true
+  xy: 245, 131
+  size: 240, 218
+  orig: 299, 299
+  offset: 29, 19
+  index: -1
+kai
+  rotate: false
+  xy: 2, 110
+  size: 241, 261
+  orig: 299, 299
+  offset: 29, 19
+  index: -1
+kai_1
+  rotate: false
+  xy: 245, 2
+  size: 237, 127
+  orig: 299, 299
+  offset: 29, 19
+  index: -1

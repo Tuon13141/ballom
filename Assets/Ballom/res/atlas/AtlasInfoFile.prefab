@@ -1,0 +1,927 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1827448236406070
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4718139923696061}
+  - component: {fileID: 114512913574797128}
+  - component: {fileID: 114470276190816978}
+  - component: {fileID: 114442911007047391}
+  - component: {fileID: 114138102327515469}
+  - component: {fileID: 114798510868055894}
+  - component: {fileID: 114768304515465669}
+  - component: {fileID: 114997742619031809}
+  - component: {fileID: 114794544670319851}
+  - component: {fileID: 114793993248611584}
+  - component: {fileID: 114727914679248104}
+  - component: {fileID: 114149489299992680}
+  - component: {fileID: 114762097366479361}
+  - component: {fileID: 114724853882495208}
+  - component: {fileID: 114335626618946777}
+  - component: {fileID: 114899033759534451}
+  - component: {fileID: 114867531435063044}
+  - component: {fileID: 114995085568098420}
+  - component: {fileID: 114439496861021243}
+  - component: {fileID: 114273312240498282}
+  - component: {fileID: 114500890021801885}
+  - component: {fileID: 114684378802916143}
+  - component: {fileID: 114929512200331340}
+  - component: {fileID: 114585888951838501}
+  m_Layer: 0
+  m_Name: AtlasInfoFile
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4718139923696061
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114512913574797128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: Infinite_reward
+  pngNames:
+  - treasures_btn_grayS
+  - treasures_btn_greenS
+  - treasures_img_arrowGray
+  - treasures_img_arrowGreen
+  - treasures_img_banner
+  - treasures_img_board
+  - treasures_img_inf
+  - treasures_img_road
+--- !u!114 &114470276190816978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: activity_common
+  pngNames:
+  - airracing_img_BBG
+  - airracing_img_targetBG
+  - airracing_img_titlegold
+  - airracing_img_winline
+  - balloon_img_timeBG
+  - collect_img_prize_1
+  - collect_img_prize_2
+  - collect_img_prize_3
+  - common_img_bigcircle
+  - common_img_eventRank
+  - common_img_pop
+  - common_img_poparrow
+  - common_pgb_eventlevel
+  - pass_img_freeBG
+  - pass_img_leveled
+  - pass_img_line
+  - pass_img_premiumBG
+  - pass_pgb_levelvertical
+  - pass_pgb_levelverticalBG_2
+  - ranking_img_listBG
+  - ranking_img_listBGmeD
+  - ranking_img_medal_1
+  - ranking_img_medal_2
+  - ranking_img_medal_3
+  - ranking_img_scoreBG
+--- !u!114 &114442911007047391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: activity_introduce
+  pngNames:
+  - event_img_123
+  - event_img_airplan
+  - event_img_beat
+  - event_img_beatkey
+  - event_img_beatLove
+  - event_img_beatStar
+  - event_img_beatUnicorn
+  - event_img_CollectLove
+  - event_img_CollectStar
+  - event_img_CollectUnicorn
+  - event_img_firework
+  - event_img_gems
+  - event_img_GSC
+  - event_img_hot
+  - event_img_pass
+  - event_img_star
+  - event_img_treasure
+  - event_txt_Balloon
+  - event_txt_Celestial
+  - event_txt_Eternal
+  - event_txt_Firework
+  - event_txt_keyup
+  - event_txt_luckstar
+  - event_txt_SkyRacing
+  - event_txt_Temple
+  - event_txt_Unicorn
+  - event_txt_up
+  - event_txt_Winning
+  - guidance_img_hand
+--- !u!114 &114138102327515469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: balloon_challenge
+  pngNames:
+  - balloon_img_balloonG
+  - balloon_img_balloonR
+  - balloon_img_banner
+  - balloon_img_box
+  - balloon_img_MYnameBG
+  - balloon_img_nameBG
+  - balloon_img_rankBG1
+  - balloon_img_rankBGME
+  - balloon_img_rankBGother
+--- !u!114 &114798510868055894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: balloon_pass
+  pngNames:
+  - collect_img_banner
+  - collect_img_black_1
+  - collect_img_black_2
+  - collect_img_black_3
+  - collect_img_level_1
+  - collect_img_level_2
+  - collect_img_level_3
+  - collect_img_levelBB_1
+  - collect_img_levelBB_2
+  - collect_img_levelBB_3
+  - collect_img_levelstart
+  - collect_img_listBG
+  - collect_img_yellowline
+  - collect_pgb_levelBG_1
+  - collect_pgb_levelBG_2
+  - collect_pgb_levelBG_3
+  - collect_pgb_levelverticalBG_1
+  - collect_pgb_levelverticalBG_2
+  - collect_pgb_levelverticalBG_3
+--- !u!114 &114768304515465669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: booster
+  pngNames:
+  - play_img_infinitG
+  - play_img_itemBuy
+  - play_img_itemright
+  - play_img_itemUnmC
+  - play_img_timeBGG
+  - play_img_x2
+  - play_pgb_line
+--- !u!114 &114997742619031809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: bundle
+  pngNames:
+  - CBbundle_img_3or1titleB
+  - CBbundle_img_3or1titleP
+  - CBbundle_img_3or1titleY
+  - CBbundle_img_banner
+  - CBbundle_img_column_new
+  - CBbundle_img_FrameY
+  - CBbundle_img_morecoin
+  - CBbundle_img_off
+  - CBbundle_img_packBG
+  - CBbundle_img_packBGB
+  - CBbundle_img_packBGBUP
+  - CBbundle_img_packtitleB
+  - CBbundle_img_titleB
+  - CBbundle_img_titleG
+  - CBbundle_img_titleP
+--- !u!114 &114794544670319851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: challenge
+  pngNames:
+  - daily_icon_collection
+  - daily_img_arrow
+  - daily_img_balloon1
+  - daily_img_balloon10
+  - daily_img_balloon11
+  - daily_img_balloon12
+  - daily_img_balloon2
+  - daily_img_balloon3
+  - daily_img_balloon4
+  - daily_img_balloon5
+  - daily_img_balloon6
+  - daily_img_balloon7
+  - daily_img_balloon8
+  - daily_img_balloon9
+  - daily_img_cardBG
+  - daily_img_grayballoon
+  - daily_img_numberBG
+  - daily_img_questionBG
+  - daily_img_selectedBG
+  - daily_img_skyBG
+--- !u!114 &114793993248611584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: common
+  pngNames:
+  - box_1_off
+  - box_2_off
+  - box_3_off
+  - box_4_off
+  - common_btn_blue
+  - common_btn_close
+  - common_btn_gray
+  - common_btn_green
+  - common_btn_greenS
+  - common_btn_seting
+  - common_btn_yellow
+  - common_btn_yellowS
+  - common_icon_info
+  - common_icon_video
+  - common_img_assetsframe
+  - common_img_bigBG
+  - common_img_blackcircle
+  - common_img_cloth
+  - common_img_coinS
+  - common_img_lock
+  - common_img_newtips
+  - common_img_playtimeBG
+  - common_img_popupbg
+  - common_img_popupframe
+  - common_img_popupframeY
+  - common_img_popupTitle
+  - common_img_right
+  - common_img_title
+  - daily_icon_score
+  - daily_img_right
+  - event_img_arrowL
+  - event_img_arrowR
+  - firework_img_timeBGL
+  - guidance_img_arrow
+  - guidance_img_pop
+  - home_img_boxBG
+  - home_img_boxLevel
+  - home_img_boxstar
+  - home_img_hard
+  - home_pgb_boxBG
+  - home_pgb_boxUP
+  - img_loading_progress
+  - mission_btn_greenS
+  - play_img_arrow
+  - play_img_clock
+  - play_img_collection
+  - play_img_doubledBG
+  - play_img_infinity
+  - play_img_itemBuyBG
+  - play_img_itemShadow
+  - play_img_itemUnm
+  - play_img_Noheart
+  - play_img_tipsBG
+  - play_img_titleribbon
+  - play_pgb_box
+  - play_pgb_boxdown
+  - ranking_img_score
+  - ranking_img_scoreBGme
+  - ranking_img_XBG
+  - ranking_img_XGL
+  - ranking_img_XGM
+  - ranking_img_XGR
+  - ranking_img_XWL
+  - ranking_img_XWM
+  - ranking_img_XWR
+  - seting_icon_music
+  - seting_icon_noise
+  - seting_icon_unmusic
+  - seting_icon_unnoise
+  - seting_icon_unVibration
+  - seting_icon_Vibration
+  - seting_img_list
+  - seting_img_listS
+  - seting_img_mask
+  - seting_img_offBG
+  - seting_img_offonBG
+  - seting_img_onBG
+  - seting_img_pictureFrame
+  - seting_img_selectedFrame
+  - seting_img_unknow
+  - seting_img_write
+  - seting_img_writeframe
+  - shop_btn_buy
+  - shop_img_AD
+  - shop_img_coinBGY
+  - shop_img_packBGYUP
+  - system_img_board
+--- !u!114 &114727914679248104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: firework
+  pngNames:
+  - firework_img_banner
+  - icon_firework
+--- !u!114 &114149489299992680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: gameplay
+  pngNames:
+  - common_btn_blueS
+  - common_btn_home
+  - common_btn_offBGS
+  - common_btn_orange
+  - common_img_tipsBG
+  - common_pgb_down
+  - common_pgb_up
+  - home_img_levelboxB
+  - home_img_rewardtop
+  - home_img_starBG
+  - home_img_starboxB
+  - play_btn_Specialclose
+  - play_btn_SpecialFrame
+  - play_btn_Speciallogo
+  - play_img_10sfrozen
+  - play_img_10sfrozenBG
+  - play_img_add8
+  - play_img_advanced
+  - play_img_balloonShadow
+  - play_img_buyitemsBG
+  - play_img_buyitemsBGG
+  - play_img_clockB
+  - play_img_collection1.1
+  - play_img_collection1
+  - play_img_collection2.1
+  - play_img_collection2
+  - play_img_collection3.1
+  - play_img_collection3
+  - play_img_collection4.1
+  - play_img_collection4
+  - play_img_collectionframe
+  - play_img_colorfulballoon
+  - play_img_Free
+  - play_img_FrozentimeBG
+  - play_img_itemBox
+  - play_img_levellight1
+  - play_img_levellight2
+  - play_img_scoreBG
+  - play_img_storm
+  - play_img_timeBG
+  - play_img_warning
+  - play_pgb_advancedBox
+  - play_pgb_comboBG
+  - play_pgb_combodown
+  - play_pgb_comboUP
+  - play_pgb_comboX
+  - play_pgb_FrozentimeBG
+  - play_pgb_giftboxdown
+  - play_pgb_giftboxG
+  - play_pgb_timeB
+  - play_pgb_timeBG
+  - play_pgb_timeG
+  - play_pgb_timeR
+  - play_pgb_timeY
+--- !u!114 &114762097366479361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: guide
+  pngNames:
+  - explain_img_coin1
+  - explain_img_coin2
+  - explain_img_dart1
+  - explain_img_dart2
+  - explain_img_electricity1
+  - explain_img_electricity2
+  - explain_img_frozen1
+  - explain_img_frozen2
+  - explain_img_frozentime1
+  - explain_img_frozentime2
+  - explain_img_lightning1
+  - explain_img_lightning2
+  - explain_img_magic1
+  - explain_img_magic2
+  - explain_img_magnet1
+  - explain_img_magnet2
+  - explain_img_rocket1
+  - explain_img_rocket2
+  - explain_img_time1
+  - explain_img_time2
+  - explain_img_vine1
+  - explain_img_vine2
+  - guidance_img_360
+--- !u!114 &114724853882495208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: item
+  pngNames:
+  - collect_img_constellation
+  - collect_img_doubleXI
+  - collect_img_unicorn
+  - common_icon_clock
+  - common_icon_coin
+  - common_icon_pickaxe
+  - common_icon_star
+  - play_img_firework
+  - play_img_fireworkL
+  - play_img_heart
+  - play_img_infinityheart
+  - play_img_itemsback
+  - play_img_itemsfrozen
+  - play_img_itemsprompt
+  - play_img_itemsrefresh
+  - play_img_sand1
+  - play_img_sand2
+  - play_img_sand3
+  - play_img_sand4
+  - play_img_sand5
+  - play_img_sandQ1
+  - play_img_sandQ2
+  - play_img_sandQ3
+  - play_img_sandQ4
+  - play_img_sandQ5
+  - play_img_timeL
+  - shop_img_ADcoin
+  - up_img_balloonY
+--- !u!114 &114335626618946777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: lucky_wheel
+  pngNames:
+  - rotary_img_arrow2
+  - rotary_img_BG
+  - rotary_img_lattice
+  - rotary_img_latticeB
+  - rotary_img_lightoff
+  - rotary_img_lightup
+  - rotary_img_right
+  - rotary_img_uppoint
+--- !u!114 &114899033759534451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: main
+  pngNames:
+  - balloon_img_3balloon
+  - collect_img_icon_1
+  - collect_img_icon_2
+  - collect_img_icon_3
+  - collection_img_timeBGG
+  - collection_img_timeBGGY
+  - collection_img_timeBGP
+  - collection_img_timeBGR
+  - collection_pgb_downG
+  - collection_pgb_downGY
+  - collection_pgb_downP
+  - collection_pgb_downR
+  - collection_pgb_in
+  - collection_pgb_up
+  - common_img_redpoint
+  - common_img_stepstitle
+  - firework_img_rank
+  - firework_img_score
+  - home_icon_add
+  - home_icon_ADpack
+  - home_icon_challenge
+  - home_icon_challengeY
+  - home_icon_daily
+  - home_icon_home
+  - home_icon_homeY
+  - home_icon_listlock
+  - home_icon_missionV2
+  - home_icon_missionY
+  - home_icon_ranking
+  - home_icon_rankingY
+  - home_icon_shop
+  - home_icon_shopY
+  - home_img_iconBG
+  - home_img_levelBG
+  - home_img_navigationBG
+  - home_img_navigationLine
+  - home_img_navigationSelected
+  - home_img_timeBG
+  - home_pgb_boxBG
+  - home_pgb_boxUP
+  - home_pgb_rotarydown
+  - home_pgb_rotaryup
+  - mission_img_tab1.1
+  - mission_img_tab1
+  - mission_img_tab2.2
+  - mission_img_tab2
+  - mission_img_tabBG
+  - pass_icon_luckystar
+  - pass_icon_luckystarB
+  - pass_pgb_circleBG
+  - pass_pgb_circleUP
+  - rank_img_intelligence
+  - rank_img_podium
+--- !u!114 &114867531435063044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: pass
+  pngNames:
+  - common_pgb_eventlevelBG
+  - pass_img_bannerS
+  - pass_img_cross
+  - pass_img_level
+  - pass_img_levelBBG
+  - pass_img_listBG
+  - pass_img_posterSS
+  - pass_img_Premium
+  - pass_img_premiumlistBG
+  - pass_img_purpleBG
+  - pass_img_yellowline
+--- !u!114 &114995085568098420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: plane_race
+  pngNames:
+  - airracing_img_1
+  - airracing_img_2
+  - airracing_img_3
+  - airracing_img_airplanG
+  - airracing_img_airplanR
+  - airracing_img_line
+  - airracing_img_line_2
+  - airracing_img_nameBG
+  - airracing_img_nameBGM
+  - airracing_img_scoreBG
+  - airracing_img_titleair
+  - airracing_img_titleBBG
+  - airracing_img_titleBG
+  - airracing_img_titleBGs
+  - box_1
+  - box_2
+  - box_3
+--- !u!114 &114439496861021243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: score_league
+  pngNames:
+  - ranking_img_arrowup
+  - ranking_img_BBG
+  - ranking_img_BG_1
+  - ranking_img_BG_2
+  - ranking_img_BG_3
+  - ranking_img_BG_4
+  - ranking_img_BG_5
+  - ranking_img_cup_1
+  - ranking_img_cup_2
+  - ranking_img_cup_3
+  - ranking_img_cup_4
+  - ranking_img_cup_5
+  - ranking_img_popS
+  - ranking_img_titleBG_1
+  - ranking_img_titleBG_2
+  - ranking_img_titleBG_3
+  - ranking_img_titleBG_4
+  - ranking_img_titleBG_5
+  - shop_icon_heap
+--- !u!114 &114273312240498282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: shop
+  pngNames:
+  - shop_btn_more
+  - shop_img_ADpack
+  - shop_img_morearrow
+  - shop_img_morecoin1
+  - shop_img_morecoin2
+  - shop_img_morecoin3
+  - shop_img_morecoin4
+  - shop_img_morecoin5
+  - shop_img_packBGP
+  - shop_img_packBGPUP
+  - shop_img_packBGY
+  - shop_img_packtitleP
+  - shop_img_packtitleY
+  - shop_img_superpack
+  - shop_img_tips
+  - shop_img_toptitleBG
+--- !u!114 &114500890021801885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: task
+  pngNames:
+  - mission_btn_blackS
+  - mission_btn_blackSS
+  - mission_img_airplane
+  - mission_img_airplane1
+  - mission_img_block
+  - mission_img_brains
+  - mission_img_checkpoint
+  - mission_img_daily
+  - mission_img_endlesstreasure
+  - mission_img_firework
+  - mission_img_firework1
+  - mission_img_hotballoon
+  - mission_img_hotballoon1
+  - mission_img_itemsBG
+  - mission_img_ListBG
+  - mission_img_login
+  - mission_img_successivelogin
+  - mission_img_successivewin
+  - mission_img_tabFrame
+  - mission_img_winstreak
+  - mission_img_winstreakUP
+--- !u!114 &114684378802916143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: treasure
+  pngNames:
+  - temple_ime_box1-off
+  - temple_ime_box1-open
+  - temple_ime_box2-off
+  - temple_ime_box2-open
+  - temple_ime_box3-off
+  - temple_ime_box3-open
+  - temple_ime_box4-off
+  - temple_ime_box4-open
+  - temple_ime_box5-off
+  - temple_ime_box5-open
+  - temple_ime_pickaxesBG
+  - temple_ime_pickaxesBGin
+  - temple_ime_sand
+  - temple_ime_soil
+  - temple_ime_templeBG
+  - temple_ime_templetone
+--- !u!114 &114929512200331340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: treasure_item
+  pngNames:
+  - blue1x5
+  - blue1x5_pit
+  - blue1x5_rim
+  - blue2x2
+  - blue2x2_2
+  - blue2x2_2_pit
+  - blue2x2_2_rim
+  - blue2x2_pit
+  - blue2x2_rim
+  - blue5x1
+  - blue5x1_pit
+  - blue5x1_rim
+  - green1x3
+  - green1x3_pit
+  - green1x3_rim
+  - green3x1
+  - green3x1_pit
+  - green3x1_rim
+  - pink2x3
+  - purple4x4
+  - purple4x4_pit
+  - purple4x4_rim
+  - red1x2
+  - red1x2_pit
+  - red1x2_rim
+  - red2x1
+  - red2x1_pit
+  - red2x1_rim
+  - yellow2x2
+  - yellow2x2_pit
+  - yellow2x2_rim
+  - yellow2x3
+  - yellow2x3_pit
+  - yellow2x3_rim
+  - yellow3x2
+  - yellow3x2_pit
+  - yellow3x2_rim
+  - yellow3x3
+  - yellow3x3_pit
+  - yellow3x3_rim
+--- !u!114 &114585888951838501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827448236406070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 778368221, guid: 30127f1394a2e73e4f1dd4b6284265a5, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  key: rise_up
+  pngNames:
+  - up_img_arrowdown
+  - up_img_arrowY
+  - up_img_balloonkey
+  - up_img_board
+  - up_img_box1close
+  - up_img_box1open
+  - up_img_box2close
+  - up_img_box2open
+  - up_img_box3close
+  - up_img_box3open
+  - up_img_branch1
+  - up_img_branch2
+  - up_img_frame
+  - up_img_keyshadow
+  - up_img_mask
+  - up_img_rod
+  - up_img_sky
+  - up_img_treetop
+  - up_img_trunk
+  - up_img_upicon
+  - up_pgb_levelvertical
+  - up_pgb_levelverticalBG

@@ -1,0 +1,93 @@
+<dependencies>
+  <packages>
+    <package>androidx.legacy:legacy-support-v4:1.0.0</package>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.adcolony:sdk:4.8.0</package>
+    <package>com.android.installreferrer:installreferrer:2.1</package>
+    <package>com.applovin:applovin-sdk:12.3.1</package>
+    <package>com.appsflyer:af-android-sdk:6.5.2</package>
+    <package>com.appsflyer:unity-wrapper:6.5.2</package>
+    <package>com.facebook.android:audience-network-sdk:6.16.0</package>
+    <package>com.fyber:marketplace-sdk:8.2.6</package>
+    <package>com.google.android.gms:play-services-ads:22.5.0</package>
+    <package>com.google.android.gms:play-services-ads:23.0.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:18.0.1</package>
+    <package>com.google.android.gms:play-services-base:18.1.0</package>
+    <package>com.google.android.gms:play-services-basement:18.1.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.1.0</package>
+    <package>com.google.firebase:firebase-analytics:21.2.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-app-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-auth:21.1.0</package>
+    <package>com.google.firebase:firebase-auth-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-common:20.3.0</package>
+    <package>com.google.firebase:firebase-config:21.2.1</package>
+    <package>com.google.firebase:firebase-config-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-crashlytics-ndk:18.3.3</package>
+    <package>com.google.firebase:firebase-crashlytics-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-database:20.1.0</package>
+    <package>com.google.firebase:firebase-database-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-iid:21.1.0</package>
+    <package>com.google.firebase:firebase-installations:17.1.0</package>
+    <package>com.google.firebase:firebase-installations-unity:10.4.0</package>
+    <package>com.google.firebase:firebase-messaging:23.1.1</package>
+    <package>com.google.firebase:firebase-messaging-unity:10.4.0</package>
+    <package>com.inmobi.monetization:inmobi-ads-kotlin:10.6.7</package>
+    <package>com.ironsource.adapters:adcolonyadapter:4.3.15</package>
+    <package>com.ironsource.adapters:admobadapter:4.3.43</package>
+    <package>com.ironsource.adapters:applovinadapter:4.3.42</package>
+    <package>com.ironsource.adapters:bidmachineadapter:4.3.6</package>
+    <package>com.ironsource.adapters:facebookadapter:4.3.45</package>
+    <package>com.ironsource.adapters:fyberadapter:4.3.30</package>
+    <package>com.ironsource.adapters:inmobiadapter:4.3.24</package>
+    <package>com.ironsource.adapters:mintegraladapter:4.3.24</package>
+    <package>com.ironsource.adapters:pangleadapter:4.3.26</package>
+    <package>com.ironsource.adapters:smaatoadapter:4.3.10</package>
+    <package>com.ironsource.adapters:unityadsadapter:4.3.33</package>
+    <package>com.ironsource.adapters:vungleadapter:4.3.23</package>
+    <package>com.ironsource.sdk:mediationsdk:7.9.0</package>
+    <package>com.mbridge.msdk.oversea:mbbanner:16.6.31</package>
+    <package>com.mbridge.msdk.oversea:mbbid:16.6.31</package>
+    <package>com.mbridge.msdk.oversea:newinterstitial:16.6.31</package>
+    <package>com.mbridge.msdk.oversea:reward:16.6.31</package>
+    <package>com.pangle.global:ads-sdk:5.8.0.8</package>
+    <package>com.smaato.android.sdk:smaato-sdk-banner:22.6.0</package>
+    <package>com.smaato.android.sdk:smaato-sdk-in-app-bidding:22.6.0</package>
+    <package>com.unity3d.ads:unity-ads:4.9.1</package>
+    <package>com.vungle:vungle-ads:7.1.0</package>
+    <package>io.bidmachine:ads:2.5.2</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/10.4.0/firebase-analytics-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/10.4.0/firebase-analytics-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/10.4.0/firebase-app-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/10.4.0/firebase-app-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/10.4.0/firebase-auth-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-auth-unity/10.4.0/firebase-auth-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/10.4.0/firebase-config-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/10.4.0/firebase-config-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/10.4.0/firebase-crashlytics-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/10.4.0/firebase-crashlytics-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/10.4.0/firebase-database-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-database-unity/10.4.0/firebase-database-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/10.4.0/firebase-installations-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/10.4.0/firebase-installations-unity-10.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/10.4.0/firebase-messaging-unity-10.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/10.4.0/firebase-messaging-unity-10.4.0.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.fc.rb.aphabet.monster.merge.master" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

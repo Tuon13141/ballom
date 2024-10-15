@@ -1,0 +1,17 @@
+﻿
+// Workaround for launcher.aab does not exist: https://forum.unity.com/threads/bundle-release-launcher-aab-does-not-exist-2019-4-16f1.1025302/
+tasks.whenTaskAdded { task ->
+    if (task.name.startsWith("bundle")) {
+        def renameTaskName = "rename${task.name.capitalize()}Aab"
+        def flavor = task.name.substring("bundle".length()).uncapitalize()
+        tasks.create(renameTaskName, Copy) {
+            def path = "${buildDir}/outputs/bundle/${flavor}/"
+            from(path)
+            include "launcher-release.aab"
+            destinationDir file("${buildDir}/outputs/bundle/${flavor}/")
+            rename "launcher-release.aab", "launcher.aab"
+        }
+ 
+        task.finalizedBy(renameTaskName)
+    }
+}

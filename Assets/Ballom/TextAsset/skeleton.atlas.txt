@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi
+  rotate: true
+  xy: 356, 2
+  size: 180, 141
+  orig: 180, 141
+  offset: 0, 0
+  index: -1
+tuowei
+  rotate: true
+  xy: 2, 41
+  size: 141, 352
+  orig: 141, 352
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fb7d72ffa0dadc849888d899fc500407
+  m_SerializeEntries:
+  - m_GUID: 429486d9c570a8d44916ba7e1fa4a2dc
+    m_Address: Assets/Scriptable Objects/AllTimeTask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - taskSO
+  - m_GUID: 2d85738b65694b0448610a15b7ee8441
+    m_Address: Assets/Scriptable Objects/DailyTask
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - dailyTaskSO
+  - m_GUID: 90cf4b9145aac354ba771a7fe60e03c3
+    m_Address: Assets/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - other
+  - m_GUID: 50407a9d7329a1e4284889a948f907e4
+    m_Address: Assets/Ballom/arts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - other
+  - m_GUID: 3d07b2da2e5f74e49a7aedbfbfcd0481
+    m_Address: Assets/Ballom/Sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - other
+  - m_GUID: 30ff869bf2a66974a85583f75ca6cd0c
+    m_Address: Assets/Ballom/res
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - other
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0ba3efe2240d0e240a524553d93db120, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dd9d30e7fc184c54586c3af6bded1d6e, type: 2}
+    - {fileID: 11400000, guid: 9fc6ba5944e75704b9a7f1827c569a40, type: 2}

@@ -1,0 +1,20 @@
+
+chuanglian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 3
+  size: 314, 961
+  orig: 314, 961
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 318, 3
+  size: 313, 961
+  orig: 313, 961
+  offset: 0, 0
+  index: -1

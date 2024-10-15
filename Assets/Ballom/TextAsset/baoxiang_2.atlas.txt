@@ -1,0 +1,27 @@
+
+baoxiang_2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guan
+  rotate: true
+  xy: 262, 140
+  size: 256, 225
+  orig: 270, 270
+  offset: 5, 6
+  index: -1
+kai
+  rotate: false
+  xy: 2, 140
+  size: 258, 257
+  orig: 270, 270
+  offset: 6, 6
+  index: -1
+kai_1
+  rotate: false
+  xy: 2, 2
+  size: 255, 136
+  orig: 270, 270
+  offset: 6, 6
+  index: -1

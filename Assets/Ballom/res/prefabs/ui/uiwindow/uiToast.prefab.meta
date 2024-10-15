@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 40c66c5f033013e45bd9b4abea6a292b
+timeCreated: 1725903767
+licenseType: Free
+PrefabImporter:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  variantParentGUID: 00000000000000000000000000000000
+  userData:
+  assetBundleName: assets$res$prefabs$ui$uiwindow$uitoast$prefab
+  assetBundleVariant:
